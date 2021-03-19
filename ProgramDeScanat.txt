@@ -1,0 +1,41 @@
+string x = "anac vdfwdfrf ";
+string y = "melc\
+    codebelc";
+
+char xch = 'a'; '\077'; '\x3f'; '\'';
+
+int numarMare = 922337203685477580755;
+long long numar = 9223372036854775807;
+int numarInt = 2147483647;
+
+int hexNumber = 0113;
+int octaNumber = 0x4b;
+int ErrorNumber = 2aaa;
+
+int hexTypeNumber = 0x75ull;
+int TypeNumber = 75ULL;
+
+double doubleNumber = 3.14159; 1.6e-19; 1e9; .003; 2.;
+double eroare = .14a; 3.14a;
+float floatNumber = 6.02e-23f;
+
+int main() {
+    int _a3 = 10;
+    int b=14;
+    for(int i = _a3; i <= b; ++i) {
+        cout << _a3 << ' ';
+    }
+
+    return 0;
+}
+
+// Ana are mere
+
+/* Anaa
+are
+mere
+*/
+
+/*
+Aaaana
+are
